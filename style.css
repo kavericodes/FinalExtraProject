@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: rgb(238, 182, 255);
+}
+
+#head{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font: italic;
+}
+
+b{
+    font-size: 19px;
+    font-family: initial;
+    font-weight: 300;
+}
+
+#footer{
+    position: fixed;
+    background-color: rgb(214, 15, 253);
+    color: black;
+    bottom: 0;
+    width:100%;
+    font-size: 21px;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(214, 214, 214);
+}
